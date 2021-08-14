@@ -8,7 +8,7 @@
 
 To get help on dynamic inventory please follow  [Ansible Official Document](https://docs.ansible.com/ansible/latest/user_guide/intro_dynamic_inventory.html#inventory-script-example-aws-ec2)
 
-1. Download [ec2.py](https://raw.githubusercontent.com/ansible/ansible/devel/contrib/inventory/ec2.py) and [ec2.ini](https://raw.githubusercontent.com/ansible/ansible/devel/contrib/inventory/ec2.ini) files
+1. Download [ec2.py](https://raw.githubusercontent.com/ansible/ansible/stable-1.9/plugins/inventory/ec2.py) and [ec2.ini](https://raw.githubusercontent.com/ansible/ansible/stable-1.9/plugins/inventory/ec2.ini) files
 
 1. Create IAM Programmatic access user with EC2 full access on AWS console 
 
